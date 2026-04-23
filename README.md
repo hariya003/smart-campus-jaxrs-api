@@ -6,7 +6,7 @@
 **Student ID:** w2120423  
 **IIT ID:** 20232534  
 **Email:** w2120423@westminster.ac.uk  
-**GitHub Repository:https://github.com/hariya003/smart-campus-jaxrs-api
+**GitHub Repository:** https://github.com/hariya003/smart-campus-jaxrs-api
 
 ---
 
