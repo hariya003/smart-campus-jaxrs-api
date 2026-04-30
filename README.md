@@ -4,7 +4,7 @@
 **Coursework:** Smart Campus Sensor & Room Management API  
 **Student Name:** Harinitha Wasathhara  
 **Student ID:** w2120423  
-**IIT ID:** 20232534  
+**IIT ID:** 20232501 
 **Email:** w2120423@westminster.ac.uk  
 **GitHub Repository:** https://github.com/hariya003/smart-campus-jaxrs-api
 
