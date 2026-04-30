@@ -4,7 +4,8 @@
 **Coursework:** Smart Campus Sensor & Room Management API  
 **Student Name:** Harinitha Wasathhara  
 **Student ID:** w2120423  
-**IIT ID:** 20232501 
+**IIT ID:** 20232501
+
 **Email:** w2120423@westminster.ac.uk  
 **GitHub Repository:** https://github.com/hariya003/smart-campus-jaxrs-api
 
@@ -76,7 +77,7 @@ The project uses only **in-memory data structures** such as `HashMap` and `Array
 From the project folder run:
 
 ```bash
-mvn clean install
+[mvn clean install](https://github.com/hariya003/smart-campus-jaxrs-api)
 ````
 
 Then deploy the generated WAR file to Tomcat.
