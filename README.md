@@ -77,7 +77,7 @@ The project uses only **in-memory data structures** such as `HashMap` and `Array
 From the project folder run:
 
 ```bash
-[mvn clean install](https://github.com/hariya003/smart-campus-jaxrs-api)
+https://github.com/hariya003/smart-campus-jaxrs-api
 ````
 
 Then deploy the generated WAR file to Tomcat.
